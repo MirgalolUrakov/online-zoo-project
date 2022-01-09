@@ -38,6 +38,7 @@ body {
     padding: 30px;
     background: rgba(245, 128, 33, 1);
     align-items: center;
+    width: 100%;
 }
 
 .header__logo{
@@ -72,10 +73,10 @@ margin-left: 30px;
 .intro__inner{
     display: flex;
     flex-direction: column;
-    height: 800px;
-    width: 100%;
+    
+    width: 1600px;
     padding-top: 100px;
-    background: url(../src/assets/banner-fon.png) center  ;
+    background: url(../src/assets/banner-fon.png)  ;
     background-repeat: no-repeat;
     background-size: 1700px;
 }
@@ -83,7 +84,7 @@ margin-left: 30px;
 
 .intro__title{
  padding-left: 30px;
- margin-top: 170px;
+ margin-top: 50px;
  
 }
 
